@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Xexe there
+          Xexe there feature 
         </p>
         <a
           className="App-link"
